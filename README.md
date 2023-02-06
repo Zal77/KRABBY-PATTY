@@ -1,2 +1,2 @@
-# CRABBY-PATTY
+# KRABBY-PATTY
 Belajar membuat krabby patty
